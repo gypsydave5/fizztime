@@ -1,7 +1,7 @@
 FIZZTIME
 ========
 
-A timer in bash, for keeping track of how fast you're getting (or not in my
+A timer, written in bash, for keeping track of how fast you're getting (or not in my
 case) at the Fizzbuzz challenge. It writes a 'fizzbuzz_times_log.txt' with the
 time an date you started and the time taken.
 
